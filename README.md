@@ -4,8 +4,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Lucas Stefanon Costa Braga Santos
+- Matricula: 1659984
 
 ## Print do console do navegador
 
